@@ -1,0 +1,74 @@
+{
+  "toOgnxO9huQOrqDb4e0HvJc9I0i1": {
+    "age": 29,
+    "email": "user_1@mail.ua",
+    "games": {
+      "hoa": {
+        "about": "Hoa is a beautiful puzzle-platforming game that features breathtaking hand-painted art, lovely music, and a peaceful, relaxing atmosphere. Experience the magic of nature and imagination as you play the main character, Hoa, on her journey through breathtaking environments back to where it all began.",
+        "genre": "casual",
+        "name": "hoa",
+        "price": 194
+      },
+      "recompile": {
+        "about": "Witness the birth of sapient AI in this sprawling atmospheric hacking adventure. Combining Metroidvania progression with non-linear exploration and gameplay. Recompile challenges players to explore, fight, hack, and survive. Discover the many secrets beneath ancient digital landscape and prepare for system-wide reconfiguration.",
+        "genre": "adventure",
+        "name": "recompile",
+        "price": 279
+      },
+      "skyrim": {
+        "about": "Winner of more than 200 Game of the Year Awards, Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features like remastered art and effects, volumetric god rays, dynamic depth of field, screen-space reflections, and more. Skyrim Special Edition also brings the full power of mods to the PC and consoles. New quests, environments, characters, dialogue, armor, weapons and more – with Mods, there are no limits to what you can experience.",
+        "genre": "adventure",
+        "name": "skyrim",
+        "price": 1746
+      }
+    },
+    "username": "user_1"
+  },
+  "eluMDBRLQrdg2HyAnbuU4z1KEIo1": {
+    "age": 20,
+    "email": "user_4@mail.com",
+    "friends": {},
+    "games": {
+      "squad": {
+        "about": "Squad is a large scale combined arms multiplayer first-person shooter emphasizing combat realism through communication, team play, emphasizing strong squad cohesion mechanics as well as larger-scale coordination, tactics, and planning.",
+        "genre": "strategy",
+        "name": "squad",
+        "price": 579
+      }
+    },
+    "username": "user_4"
+  },
+  "L2Hesbq6gzgZxBEXOCe3htsfT0x2": {
+    "age": 28,
+    "email": "user_2@mail.ua",
+    "friends": {
+      
+    },
+    "games": {
+      "crysis": {
+        "about": "The fate of the world is in your hands. New and old enemies threaten the peace you worked so hard to achieve 24 years ago. Your search for the Alpha Ceph continues, but this time you'll also need to expose the truth behind the C.E.L.L. corporation. It won't be easy, but your Nanosuit helps you clear a path to victory. Craft a stealthy attack to defeat your opponents quietly, or decimate the enemy with a blaze of brute force. There's no wrong way to save the world.",
+        "genre": "strategy",
+        "name": "crysis",
+        "price": 2173
+      },
+      "humankind": {
+        "about": "HUMANKIND™ is a historical strategy game, where you’ll be re-writing the entire narrative of human history and combining cultures to create a civilization that’s as unique as you are.",
+        "genre": "strategy",
+        "name": "humankind",
+        "price": 1200
+      },
+      "uno": {
+        "about": "One of the most iconic classic games which we all grew to know and love! UNO makes its return with an assortment of exciting new features such as added video chat support and an all new theme system which adds more fun!",
+        "genre": "casual",
+        "name": "uno",
+        "price": 60
+      }
+    },
+    "username": "user_2"
+  },
+  "8kxPb9FFr2MtZGqZTQm05mTc0Sh2": {
+    "age": 15,
+    "email": "user_3@mail.com",
+    "username": "user_3"
+  }
+}
